@@ -58,7 +58,7 @@ Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
    connecting: "Menghubungkan",
    refresh: "Berhasil Perbarui Jaringan\n"
    },
-   prefix: ["/"],
+   prefix: ["#"],
    gexp: 50,
    limit: 100,
    eror: "Sepertinya Eror",
