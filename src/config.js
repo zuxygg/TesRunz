@@ -1,7 +1,7 @@
 const fs = require("fs")
 
 global.APIs = { // API Prefix
-  // nama: 'https://website'
+  // nama: 'Alxyゑ'
   bx: 'https://bx-hunter.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
   kotzyy: 'https://api.kotzyy.xyz',
