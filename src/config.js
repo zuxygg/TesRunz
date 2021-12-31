@@ -28,7 +28,7 @@ global.APIKeys = { // APIKey nya disini
 }
 
 
-userbot = { Zuxy Botz }
+userbot = { 
 Prem: JSON.parse(fs.readFileSync('./db/premium.json')),
  owner:  [ "6289692890080", "6289692890080", "6289692890080", "6289692890080","6289692890080","6289692890080", "6289692890080", "6289692890080", "6289692890080" ],
   MONGO_URI: "mongodb+srv://zanDb:veth0581@cluster0.eyx0e.mongodb.net/<mydb>?retryWrites=true&w=majority",
